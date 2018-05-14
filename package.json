@@ -1,0 +1,13 @@
+{
+  "name": "generate-podcast-rss",
+  "version": "0.5.0",
+  "author": {
+    "name": "Malo Bourgon",
+    "url": "https://malob.me"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "latest",
+    "podcast": "latest",
+    "async": "latest"
+  }
+}
