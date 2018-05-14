@@ -8,7 +8,7 @@ I created it as part of a project to generate a personal podcast of articles I w
 
 To get this working you'll first need to setup the other Cloud Function mentioned above.
 
-You'll then need to create a new Cloud Function (see configuration details below), and replace the undefined global constants in the code, gcpProjectID, and gcpBucketName, with the appropriate values. You'll also want to customize the RSS feed metadata in the `feed` constant.
+You'll then need to create a new Cloud Function (see configuration details below), and replace the undefined global constants in the code, `gcpProjectID`, and `gcpBucketName`, with the appropriate values. You'll also want to customize the RSS feed metadata in the `feed` constant.
 
 ### Cloud Function configuration
   * Memory allocation: 256 MB
